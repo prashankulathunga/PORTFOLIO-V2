@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "myportfolio-5203c",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
